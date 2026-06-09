@@ -2,7 +2,7 @@
 	"FileVersion": 3,
 	"Version": 1,
 	"VersionName": "1.0",
-	"FriendlyName": "SlateNavChanger",
+	"FriendlyName": "BDC Slate Navigation Changer",
 	"Description": "Adds Function to change Slate Navigation Config",
 	"Category": "BDC_Plugins",
 	"CreatedBy": "BDC_Patrick",
